@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Hi, My name is Jnyanesh, and i am a Staff Engineer at Juniper.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Get to know all about Network Engineering
